@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  RNA Intelligence
-dscription: 瑞能智药
+description: 瑞能智药
 ---
 
 
