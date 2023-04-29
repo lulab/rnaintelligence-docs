@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  RNA Intelligence
+dscription: 瑞能智药
 ---
 
 
@@ -11,7 +12,7 @@ title:  RNA Intelligence
 
 ### 让科技的不断创新给每个人都带来健康
 
->  **RNA Intelligence** “瑞能智药科技有限公司” 致力于为每个人提供新维度的、个性化的基因诊疗方案 
+>  **RNA Intelligence** “瑞能智药科技有限公司” 致力于为每个人提供新维度的、个性化的基因诊疗方案
 
 
 
