@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Join Us!
-description: RNA Intelligence
+title: RNA Intelligence
+description: Join Us!
 ---
 
 # Welcome to RNA Intelligence
@@ -13,9 +13,11 @@ description: RNA Intelligence
 
 ---
 
-**岗位地点**：北京市海淀区清华科技园
+**岗位地点**：北京市海淀区清华科技园； 上海张江科技园
 
-
+> “瑞远智药科技有限公司” （**RNA Intelligence**）致力于为每个人提供新维度的、个性化的诊疗方案，让科技的不断创新给每个人都带来健康
+>
+> 我们在RNA-蛋白结合，RNA-siRNA/shRNA结合的计算设计上积累了大量科研经验，并应用在了HIV、HCV等病毒的靶标筛选上。我们将这些科研成果应用在癌症治疗、病毒感染治疗等疾病治疗上。
 
 ## 生信和AI技术研发方向
 
