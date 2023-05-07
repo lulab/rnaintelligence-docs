@@ -1,7 +1,6 @@
 ---
 layout: default
-title: RNA Intelligence
-description: Join Us!
+title: Join Us!
 ---
 
 # Welcome to RNA Intelligence

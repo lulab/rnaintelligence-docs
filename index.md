@@ -1,7 +1,6 @@
 ---
 layout: default
-title:  RNA Intelligence
-description: Documents
+title:  Docs of RNA Intelligence
 ---
 
 # Documents of RNA Intelligence
